@@ -7,3 +7,5 @@ psutil>=5.6.7
 docker>=4.1.0
 aimrecords==0.0.6
 protobuf>=3.11.0
+websockets>=8.1
+dirq>=1.7.1
